@@ -2,7 +2,7 @@ import {Component} from 'angular2/core';
 import {RouteConfig, Router, ROUTER_DIRECTIVES} from 'angular2/router';
 
 import {CatalogComponent} from './catalog/catalog.component';
-import {ShowComponent} from './catalog/show.component';
+import {ShowComponent} from './shows/show.component';
 
 @Component({
     selector: 'tv-catalog-app',

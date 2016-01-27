@@ -1,6 +1,6 @@
 ﻿import {Component, OnInit} from 'angular2/core';
 import {Router, RouteParams} from 'angular2/router';
-import {TopRatedComponent} from './shows-list.component';
+import {TopRatedComponent} from '../shows/shows-list.component';
 
 @Component({
     selector: 'tv-catalog',

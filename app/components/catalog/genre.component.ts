@@ -2,7 +2,7 @@
 import {RouteConfig, ROUTER_DIRECTIVES, RouteParams} from 'angular2/router';
 
 import {CatalogService, Show} from '../common/tv-catalog.service';
-import {TopRatedComponent} from './shows-list.component';
+import {TopRatedComponent} from '../shows/shows-list.component';
 
 @Component({
     styles: [`
