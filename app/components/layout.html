@@ -1,0 +1,21 @@
+<header class="navbar navbar-inverse">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" [routerLink]="['Catalog']">
+                <i class="glyphicon glyphicon-hd-video"></i>
+                TV Catalog
+            </a>
+        </div>
+        <div class="" id="navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li><a [routerLink]="['Catalog', 'Genre', { genre: 'action' }]"><i class="fa fa-rocket"></i>  Action</a></li>
+                <li><a [routerLink]="['Catalog', 'Genre', { genre: 'comedy' }]"><i class="fa fa-smile-o"></i> Comedy</a></li>
+                <li><a [routerLink]="['Catalog', 'Genre', { genre: 'crime' }]"><i class="fa fa-gavel"></i> Crime</a></li>
+                <li><a [routerLink]="['Catalog', 'Genre', { genre: 'drama' }]"><i class="fa fa-frown-o"></i> Drama</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+<div class="container">
+    <router-outlet></router-outlet>
+</div>
