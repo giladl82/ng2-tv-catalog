@@ -1,0 +1,19 @@
+﻿.all:before {
+    content: "\f26c";
+}
+
+.action:before {
+    content: "\f135";
+}
+
+.comedy:before {
+    content: "\f118";
+}
+
+.crime:before {
+    content: "\f0e3";
+}
+
+.drama:before {
+    content: "\f119";
+}

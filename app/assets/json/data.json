@@ -1,0 +1,212 @@
+[
+    {
+        "name": "crime",
+        "shows": [
+            {
+                "name": "Breaking Bad",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+                "startYear": 2008,
+                "endYear": 2013,
+                "rate": 9.5,
+                "description": "A chemistry teacher diagnosed with terminal lung cancer teams up with his former student to cook and sell crystal meth.",
+                "imdbLink": "http://www.imdb.com/title/tt0903747/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "Sherlock",
+                "image": "http://ia.media-imdb.com/images/M/MV5BNTA2MTE1NDI5OV5BMl5BanBnXkFtZTcwNzM2MzU3Nw@@._V1_SY317_CR21,0,214,317_AL_.jpg",
+                "startYear": 2010,
+                "endYear": "",
+                "rate": 9.3,
+                "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+                "imdbLink": "http://www.imdb.com/title/tt1475582/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "True Detective",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTUzNTMwODI1OV5BMl5BanBnXkFtZTgwMDIzMTQ0NTE@._V1_SX214_AL_.jpg",
+                "startYear": 2014,
+                "endYear": "",
+                "rate": 9.2,
+                "description": "An anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+                "imdbLink": "http://www.imdb.com/title/tt2356777/?ref_=nv_sr_1"
+            },
+            {
+                "name": "Fargo",
+                "image": "http://ia.media-imdb.com/images/M/MV5BNDEzOTYzMDkzN15BMl5BanBnXkFtZTgwODkzNTAyNjE@._V1_SY317_CR4,0,214,317_AL_.jpg",
+                "startYear": 2014,
+                "endYear": "",
+                "rate": 9.1,
+                "description": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota.",
+                "imdbLink": "http://www.imdb.com/title/tt2802850/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "Death Note",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTI0NTI1NjU5NV5BMl5BanBnXkFtZTcwNDg3NDg5MQ@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+                "startYear": 2006,
+                "endYear": 2007,
+                "rate": 9.0,
+                "description": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+                "imdbLink": "http://www.imdb.com/title/tt0877057/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "Narcos",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMjMyNzA0MTA3NV5BMl5BanBnXkFtZTgwMTYxMTA0NjE@._V1_SX214_AL_.jpg",
+                "startYear": 2015,
+                "endYear": "",
+                "rate": 9.0,
+                "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
+                "imdbLink": "http://www.imdb.com/title/tt2707408/?ref_=nv_sr_1"
+            }
+        ]
+    },
+    {
+        "name": "comedy",
+        "shows": [
+            {
+                "name": "The Big Bang Theory",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMjI1Mzc4MDUwNl5BMl5BanBnXkFtZTgwMDAzOTIxMjE@._V1_SY317_CR20,0,214,317_AL_.jpg",
+                "startYear": 2007,
+                "endYear": "",
+                "rate": 8.4,
+                "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+                "imdbLink": "http://www.imdb.com/title/tt0898266/?ref_=nv_sr_1"
+            },
+            {
+                "name": "Shameless",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMjI3NzY2MzMzNF5BMl5BanBnXkFtZTgwODgxMTExNzE@._V1_SY317_CR9,0,214,317_AL_.jpg",
+                "startYear": 2011,
+                "endYear": "",
+                "rate": 8.7,
+                "description": "An alcoholic man lives in a perpetual stupor while his six children with whom he lives cope as best they can.",
+                "imdbLink": "http://www.imdb.com/title/tt1586680/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "Modern Family",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTU5MjQ1MTE2Ml5BMl5BanBnXkFtZTgwMDgwMzg5NjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+                "startYear": 2009,
+                "endYear": "",
+                "rate": 8.6,
+                "description": "Three different, but related families face trials and tribulations in their own uniquely comedic ways.",
+                "imdbLink": "http://www.imdb.com/title/tt1442437/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "New Girl",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTQ5MzM1NzMwMl5BMl5BanBnXkFtZTgwNjQ2MzI2NzE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+                "startYear": 2011,
+                "endYear": "",
+                "rate": 7.8,
+                "description": "After a bad break-up, Jess, an offbeat young woman, moves into an apartment loft with three single men. Although they find her behavior very unusual, the men support her - most of the time.",
+                "imdbLink": "http://www.imdb.com/title/tt1826940/?ref_=fn_al_tt_1"
+            }
+        ]
+    },
+    {
+        "name": "action",
+        "shows": [
+            {
+                "name": "Jessica Jones",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTcwMzM3NTE5NF5BMl5BanBnXkFtZTgwNjUwNDkwNzE@._V1_SY317_CR3,0,214,317_AL_.jpg",
+                "startYear": 2015,
+                "endYear": "",
+                "rate": 8.4,
+                "description": "A former superhero decides to reboot her life by becoming a private investigator.",
+                "imdbLink": "http://www.imdb.com/title/tt2357547/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "Arrow",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTg3OTc0NzkyOV5BMl5BanBnXkFtZTgwMDMwMTM3MjE@._V1_SX214_AL_.jpg",
+                "startYear": 2012,
+                "endYear": "",
+                "rate": 8.1,
+                "description": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+                "imdbLink": "http://www.imdb.com/title/tt2193021/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "The Flash",
+                "image": "http://ia.media-imdb.com/images/M/MV5BNjAwNzkxNzAwNF5BMl5BanBnXkFtZTgwODg2NTc2NjE@._V1_SY317_CR19,0,214,317_AL_.jpg",
+                "startYear": 2014,
+                "endYear": "",
+                "rate": 8.2,
+                "description": "Barry Allen wakes up 9 months after he was struck by lightning and discovers that the bolt gave him the power of super speed. With his new team and powers, Barry becomes 'The Flash' and fights crime in Central City.",
+                "imdbLink": "http://www.imdb.com/title/tt3107288/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "NCIS",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTYyMTQ0MTU1OF5BMl5BanBnXkFtZTcwMjI0Njg4Ng@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+                "startYear": 2005,
+                "endYear": "",
+                "rate": 7.9,
+                "description": "The cases of the Naval Criminal Investigative Service's Washington DC Major Case Response Team, led by Special Agent Leroy Jethro Gibbs.",
+                "imdbLink": "http://www.imdb.com/title/tt0364845/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "JAG",
+                "image": "http://ia.media-imdb.com/images/M/MV5BNjQ3NzIwNTA0N15BMl5BanBnXkFtZTcwMDU4Nzk0MQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+                "startYear": 1995,
+                "endYear": 2005,
+                "rate": 6.5,
+                "description": "The cases of Harmon Rabb, former Navy fighter pilot, and his fellow lawyers of the US Navy's Judge Advocate General's office.",
+                "imdbLink": "http://www.imdb.com/title/tt0112022/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "24",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+                "startYear": 2001,
+                "endYear": 2010,
+                "rate": 8,
+                "description": "Jack Bauer, Director of Field Ops for the Counter-Terrorist Unit of Los Angeles, races against the clock to subvert terrorist plots and save his nation from ultimate disaster.",
+                "imdbLink": "http://www.imdb.com/title/tt0285331/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "The A-Team",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMzI0MjI1NjU5OF5BMl5BanBnXkFtZTcwNzg5NDUyMQ@@._V1_SY317_CR9,0,214,317_AL_.jpg",
+                "startYear": 1983,
+                "endYear": 1987,
+                "rate": 7.6,
+                "description": "Four Vietnam vets, framed for a crime they didn't commit, help the innocent while on the run from the military.",
+                "imdbLink": "http://www.imdb.com/title/tt0084967/?ref_=fn_al_tt_1"
+            }
+        ]
+
+    },
+    {
+        "name": "drama",
+        "shows": [
+            {
+                "name": "House of Cards",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTY1NDcwMDcxN15BMl5BanBnXkFtZTgwMDI1NTQzNDE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+                "startYear": 2013,
+                "endYear": "",
+                "rate": 9.0,
+                "description": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+                "imdbLink": "http://www.imdb.com/title/tt1856010/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "The Walking Dead",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTk1MjI1NjI0MV5BMl5BanBnXkFtZTcwODQ5MzA3Mw@@._V1_SX214_AL_.jpg",
+                "startYear": 2010,
+                "endYear": "",
+                "rate": 8.6,
+                "description": "The Walking Dead",
+                "imdbLink": "http://www.imdb.com/title/tt1520211/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "Grey`s Anatomy",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMjM3NTY5MjMxM15BMl5BanBnXkFtZTgwODk5Mjg5NjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+                "startYear": 2005,
+                "endYear": "",
+                "rate": 7.7,
+                "description": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+                "imdbLink": "http://www.imdb.com/title/tt0413573/?ref_=fn_al_tt_1"
+            },
+            {
+                "name": "Vikings",
+                "image": "http://ia.media-imdb.com/images/M/MV5BMTcyMTUzMzMxNV5BMl5BanBnXkFtZTgwMDY3NTUzNDE@._V1_SX214_AL_.jpg",
+                "startYear": 2013,
+                "endYear": "",
+                "rate": 8.6,
+                "description": "The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.",
+                "imdbLink": "http://www.imdb.com/title/tt2306299/?ref_=fn_al_tt_1"
+            }
+        ]
+    }
+]

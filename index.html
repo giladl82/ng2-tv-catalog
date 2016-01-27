@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<title>Angular 2 Tour Of Heros</title>
+
+	<base href="/">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="/app/assets/styles/app.css" rel="stylesheet" />
+	<style type="text/css">
+		.navbar {border-radius: 0;}
+	</style>
+	<!-- 1. Load libraries -->
+	<script src="node_modules/angular2/bundles/angular2-polyfills.js"></script>
+    <script src="node_modules/systemjs/dist/system.src.js"></script>
+    <script src="node_modules/rxjs/bundles/Rx.js"></script>
+    <script src="node_modules/angular2/bundles/angular2.dev.js"></script>
+    <script src="node_modules/angular2/bundles/router.dev.js"></script>
+	<script src="node_modules/angular2/bundles/http.dev.js"></script>
+	<!-- 2. Configure SystemJS -->
+	<script>
+		System.config({
+			packages: {        
+			  app: {
+			    format: 'register',
+			    defaultExtension: 'js'
+			  }
+			}
+		});
+
+		System.import('app/boot')
+		    .then(null, console.error.bind(console));		
+	</script>
+</head>
+<body>
+ 	<!-- 3. Display the application -->
+	<tv-catalog-app>Loading...</tv-catalog-app>
+</body>
+</html>
