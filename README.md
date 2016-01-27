@@ -9,3 +9,4 @@ For example, separating the components as I did.
 I actually didn't see any separation and I think that in an application this small, all the files could of been placed in the same folder,
 but I wanted to see how separating them to different folders will effect my code.
 
+Hope you find this code helpful
